@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/NeirobotChatApplication"/>
+    <qresource prefix="/img">
+        <file>img/bot.png</file>
+    </qresource>
+</RCC>
